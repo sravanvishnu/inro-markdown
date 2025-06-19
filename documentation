@@ -107,7 +107,7 @@ Markdown is a lightweight markup language that turns plain text into formatted d
 | Italic         | `*italic*`                        | *italic* |
 | Lists (ul/ol)  | `-`, `*`, `1.`                    | - List item |
 | Link           | `[text](url)`                    | [Google](https://google.com) |
-| Image          | `![alt](img.jpg)`                | <img alt="google"src=""width="100">|
+| Image          | `![alt](img.jpg)`                | <img alt="google"src="/assets/googlepng.png"width="100">|
 | Inline Code    | `` `code` ``                      | `code` |
 | Code Block     | ```` ```lang ````                | Code block |
 | Quote          | `> quote`                        | > quote |
