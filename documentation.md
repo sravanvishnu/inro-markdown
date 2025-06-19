@@ -114,6 +114,7 @@ Markdown is a lightweight markup language that turns plain text into formatted d
 | Checkbox       | `- [ ] Task`                      | - [ ] Task |
 | Table          | `| col | col |` with `---`        | See below |
 <br>
+
 **Example Table:**
 
 
