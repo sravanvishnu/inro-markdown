@@ -168,7 +168,9 @@ Example:
 
 
 <br>
+
 ---
+
 ## 📚 Summary for Your Lecture
 
 | Topic | Points to Cover |
@@ -182,7 +184,9 @@ Example:
 | Markdown vs HTML | Markdown is writing-first, HTML is structure-first |
 
 ---
+
 <br>
+
 ## 📚 Resources
 
 - [Markdown Guide](https://www.markdownguide.org)
